@@ -1,9 +1,9 @@
 package br.edu.ufabc.poo.lab9;
 
-import junit.framework.TestCase;
+import static org.junit.Assert.assertTrue;
 
 
-public class ContaTest extends TestCase{
+public class ContaTest{
 
     public void testConta() {
         assertTrue(true);
